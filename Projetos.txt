@@ -1,0 +1,52 @@
+Tecnico -
+Urna Eletronica
+Conversor de Moedas
+Sistema mini-ERP para Loja de Conveniencias
+Sistema mini-ERP para uma Pizzaria
+Sistema mini-ERPe site para Loja de Jogos *
+
+---------------------------------------------------------------------------------------------------
+Graduação
+LP3 - Batalha Naval
+LP4 - Pokemon
+Compiladores - Linguagens(c -> java, c -> assembly?) *
+CGPI - Paint
+ED2 - Criação de um dicionário de dados
+Enmac *
+---------------------------------------------------------------------------------------------------
+Estágio Itau Unibanco
+Parametrização de Advogados(Responsavel)
+Parametrização de Subsídios de Advogados(Responsavel)
+Cadastro Qualificado de Processos Jurídicos (OCR) *
+Icaro - Remuneração Automática de Honorários *
+Proposta e criação do projeto de Log de sistemas jurídicos para levantamento de informações(Responsavel)
+Kaizen - Levantamento de gaps sistemicos e Proposta de melhorias/correções(reduzindo e muito o gasto do banco com pagamentos errados e mips) *
+Proposta de criação da agenda de advogados contendo informações relevantes(Responsavel)
+Sustentação de sistemas
+----------------------------------------------------------------------------------------------------
+Pós Graduação(Eng Software)
+Gerenciamento de Requisitos - Especificação de requisitos, elaboração da arquitetura, desenvolvimento e testes do sistema E-Matricula *
+Gestão de Projetos - Aulas com o PMBOK inteiro
+Integração de Sistemas Legados - Elaboração da arquitetura e a programação de um componente de integração
+Metodologias Ageis - Especificação de requisitos e elaboração da arquitetura de um sistema financeiro
+Monografia - Aplicação de Aprendizado de Máquina e Mineração de Dados no Desenvolvimento de Sistemas Bancários *
+---------------------------------------------------------------------------------------------------
+Analista Itau Unibanco
+MDM de Produtos(Master Data Management of Products) - Base centralizada de produtos do banco
+Projeto de evolução do sistema para um MDM de Produtos baseado em um roadmap de melhorias levantando a partir de comparações entre ferramentas de mercado e a ferramenta interna da instituição. Participação ativa no levantamento de requisitos, na análise e definições de soluções, responsável também pela comunicação com a área cliente e com os fornecedores contratados para o projeto.
+
+NPT - integração da nova plataforma da tesouraria com o MDM de Produtos e MDM de Domínios(responsável)
+
+Viabilidade Operacional(um dos responsaveis) , ERP, Espelhamento de bases, carga(responsavel), de x para(responsavel), lastro(responsavel), limites
+
+Levantamento de gaps sistemicos e Proposta de melhorias/correções(reduzindo e muito o gasto do banco com pagamentos errados e mips) com base em dados *
+
+Proposta de um sistema com arquitetura distribuida provendo integração com outros sistemas(+de 1000) via soa por serviços em java(webservice) e mainframe/cobol(subprograma/arquivo)*
+
+MDM de Domínios(Master Data Management of Domains) -  Base centralizada de domínios do banco
+Projeto de criação de um MDM (Master Data Management) de Domínios Corporativos a partir do mapeamento de metadados corporativos e da integração entre as áreas de Governança de Dados e de Sistema Origem da Informação. Participação ativa no levantamento de requisitos, na análise e definições de soluções, , responsável também pela comunicação com a área cliente e com os fornecedores contratados para o projeto.
+----------------------------------------------------------------------------------------------------
+Mestrado USP
+Trabalho do furuie
+Enrolar pacman ou algum outro lixo
+
